@@ -1,0 +1,18 @@
+<html>
+<body>
+	<script> 
+	var name = prompt("Zou u even een paar vragen willen beantwoorden?")
+	var name = prompt("Vul je voornaam in");  
+	var name = prompt("Vul je achternaam in")
+	var age = prompt("Vul je leeftijd in");
+	name = name + age;
+    </script>
+ </body>
+ </html>
+ <font>Yoran Bassant - <br> Sofware developer 1ste jaar</font>
+ <h1>deze vragen waren zijn voor informatie</h1>
+
+
+
+
+
